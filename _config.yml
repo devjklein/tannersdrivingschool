@@ -33,6 +33,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+sass:
+  style: compact
+
 # Build settings
 theme: minima
 plugins:
