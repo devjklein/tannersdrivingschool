@@ -32,11 +32,14 @@ social:
     links:
       - https://www.facebook.com/CrystalFallsDrive
       - https://www.youtube.com/channel/UCp6mt91UA88KjMGOBacO-GQ
+      - https://www.kickstarter.com/projects/victorpekar/crystal-falls-drive
+      - https://www.gofundme.com/f/crystal-falls-drive-film-submission
+
 
 lang: en_US
 domain: tannersdrivingschool.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tannersdrivingschool.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://tannersdrivingschool.com"
 
 
 sass:
@@ -44,7 +47,6 @@ sass:
 
 # Build settings
 plugins:
-  #- jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 # Exclude from processing.
