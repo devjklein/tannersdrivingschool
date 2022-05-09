@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   project currently entitled "Crystal Falls Drive", a dark comedy that is 
   uniquely Maryland and set in beautiful Washington County!
 logo: img/tds-logo-vertical.png
+image: img/social-image.jpg
 social: 
     name: Crystal Falls Drive
     links:
