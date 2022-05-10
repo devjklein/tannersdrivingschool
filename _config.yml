@@ -27,9 +27,16 @@ social:
     links:
       - https://www.facebook.com/CrystalFallsDrive
       - https://www.youtube.com/channel/UCp6mt91UA88KjMGOBacO-GQ
+      - https://twitter.com/CrystalFallsDr
+      - https://www.instagram.com/crystalfallsdrive/
       - https://www.kickstarter.com/projects/victorpekar/crystal-falls-drive
       - https://www.gofundme.com/f/crystal-falls-drive-film-submission
 
+twitter:
+  username: crystalfallsdr
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/CrystalFallsDrive
 
 lang: en_US
 domain: tannersdrivingschool.com
